@@ -1,0 +1,10 @@
+{
+    apps : [
+      {
+        name      : "Prueba-frontend",
+        script    : "npx",
+        interpreter: "none",
+        args: "npm start"
+      }
+    ]
+  }
